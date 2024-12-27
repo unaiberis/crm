@@ -160,8 +160,8 @@
                         context="{'group_by':'stage_id'}"
                     />
                     <filter
-                        string="Type"
-                        name="type"
+                        string="Category"
+                        name="category"
                         domain="[]"
                         context="{'group_by':'categ_id'}"
                     />
